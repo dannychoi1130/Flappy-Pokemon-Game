@@ -1,5 +1,5 @@
-Flappy-Pokemon
-Flappy-Pokemon is a fun and addictive game that combines the classic gameplay of Flappy Bird with the beloved characters from the Pokemon universe. Fly through a series of obstacles and try to achieve the highest score while guiding your chosen Pokemon to victory!
+
+Flappy-Pokemon is a fun and addictive chorme extention game that combines the classic gameplay of Flappy Bird with the beloved characters from the Pokemon universe. Fly through a series of obstacles and try to achieve the highest score while guiding your chosen Pokemon to victory!
 
 Gameplay
 The objective of Flappy-Pokemon is simple: navigate your Pokemon through a continuous series of pipes without colliding with them. Each time you successfully pass through a pair of pipes, you earn a point. The game ends when your Pokemon collides with a pipe or the ground.
