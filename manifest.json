@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Flappy Pokemon Game",
+    "version": "1.0",
+    "description": "A simple Flappy Bird game as a Chrome extension.",
+    "action": {
+    "default_popup": "index.html",
+    "default_icon": "pokeball.png"
+  }
+       }
